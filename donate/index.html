@@ -4,9 +4,7 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
-{% seo %}
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
   </head>
 
   <body>
@@ -14,6 +12,7 @@
     <header>
 	  <div class="links">
 	  <a href="https://steamcommunity.com/id/unknownproject/"><img id="img" class="logo" alt="" src="/assets/images/Steam.png" width="50" height="50" align=center></a><a href="/donate"> ==> Support me <== </a></li>
+	  <iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=Support%20me%2C%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0&targets-hint=&default-sum=10&button-text=14&hint=&successURL=&quickpay=shop&account=41001263743821" width="423" height="222" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 	  </div>
 	</header>
 
@@ -28,8 +27,6 @@
 	   <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe">Beta WIP Release</a></b>
 	   </section>
 	 </div>
-
-  	{% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -38,6 +35,5 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
       </script>
-    {% endif %}
   </body>
 </html>
