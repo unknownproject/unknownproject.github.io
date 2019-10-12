@@ -3,4 +3,4 @@ site.description: <<<What are you doing here ?>>>
 theme: jekyll-theme-hacker
 show_downloads: true
 google_analytics: [Your Google Analytics tracking ID]
-repository1: unknownproject/Silent_Hill_Homecoming
+repository: unknownproject/Silent_Hill_Homecoming
