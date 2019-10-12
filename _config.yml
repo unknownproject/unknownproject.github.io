@@ -1,6 +1,3 @@
-site.title: Unknownproject's Lair
-site.description: <<<What are you doing here ?>>>
 theme: jekyll-theme-hacker
 show_downloads: true
 google_analytics: [Your Google Analytics tracking ID]
-repository: unknownproject/Silent_Hill_Homecoming
