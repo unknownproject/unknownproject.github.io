@@ -1,29 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
   {%- include head.html -%}
+
   <body>
+
     {%- include header.html -%}
-  <body>
-    <header>
-	  <div class="links">
-	  <a href="http://steamcommunity.com/profiles/76561198017988277"><img id="img" class="logo" src="/assets/images/Steam.png" width="50" height="50" align=center></a>
-	  <!--<a href="/" align=right><img id="img" class="logo" src="/assets/images/support.png" width="170" height="50" align=center></a>-->
-	  <!--<a href="/indy" align=right><img id="img" class="logo" src="/assets/images/support.png" width="170" height="50" align=center></a>-->
-	  <!--<a href="/gettingup" align=right><img id="img" class="logo" src="/assets/images/support.png" width="170" height="50" align=center></a>-->
-	  <a href="/donate" align=right><img id="img" class="logo" src="/assets/images/support.png" width="170" height="50" align=center></a>
-	  </div>
-	</header>
-    <div class="container">
-      <section id="main_content">
-	   <img id="img" class="logo" src="/assets/images/shh_lbl.png" width="990" height="30" align=left>
-       <img id="img" class="shot" src="/assets/images/SHH.png" width="580" height="300" align=left>
-	   <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt"><img id="img" class="logo" alt="" src="/assets/images/readme.png" width="410" height="60" align=center><br>
-	   <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt"><img id="img" class="logo" alt="" src="/assets/images/changelog.png" width="410" height="60" align=center><br>
-	   <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt"><img id="img" class="logo" alt="" src="/assets/images/hotkeys.png" width="410" height="60" align=center><br>
-	   <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/Patch2.0_upd3_light_pt1.zip"><img id="img" class="logo" alt="" src="/assets/images/stable.png" width="410" height="60" align=center><br>
-	   <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe"><img id="img" class="logo" alt="" src="/assets/images/beta.png" width="410" height="60" align=center><br>
-	   </section>
-	 </div>
-      {%- include footer.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
   </body>
+
 </html>
