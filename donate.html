@@ -46,7 +46,47 @@
 					<li class="buttons">
 			    <input type="hidden" name="form_id" value="85480" />
 			    
-				<input id="saveForm" class="button_text" type="submit" name="submit" value="Donate" />
+				<input id="saveForm" class="button_text" type="submit" name="submit" value="Donate / Пожертвовать" />
+		</li>
+			</ul>
+		</form>	
+	</div>
+		
+		<h1><a>Qiwi Donation</a></h1>
+		<form id="form_85480" class="appnitro"  method="post" action="https://money.yandex.ru/quickpay/confirm.xml">
+		    <input type="hidden" name="receiver" value="41001263743821">
+            <input type="hidden" name="formcomment" value="Unknownproject">
+            <input type="hidden" name="short-dest" value="Unknownproject">
+            <input type="hidden" name="label" value="$261">
+            <input type="hidden" name="quickpay-form" value="donate">
+            <input type="hidden" name="targets" value="Support unknownproject / Поддержка unknownproject">
+			<div class="form_description">
+			<h2>Qiwi Donation / Донат через Киви</h2>
+			<p></p>
+		     </div>						
+			<ul>
+		<li id="li_1" ><label class="description" for="element_1">Sum / Сумма</label>
+		<div>
+		<input id="element_1" name="sum" class="edit" type="text" maxlength="255" value=""/> 
+		</div> 
+		</li>
+		<li id="li_2" ><label class="description" for="element_2">Comment / Комментарий</label>
+		<div>
+		<textarea id="element_2" name="comment" class="element textarea medium"></textarea> 
+		</div> 
+		</li>
+		    <input type="hidden" name="need-fio" value="false">
+            <input type="hidden" name="need-email" value="true">
+            <input type="hidden" name="need-phone" value="false">
+            <input type="hidden" name="need-address" value="false">
+            <label><input type="radio" name="paymentType" value="PC">YandexMoney / ЯндексДеньги</label>
+            <label><input type="radio" name="paymentType" value="AC">Bank Card / Банковская карта</label>
+	        <label><input type="radio" name="paymentType" value="MC">Mobile Phone / Моб. телефон</label>
+			
+					<li class="buttons">
+			    <input type="hidden" name="form_id" value="85480" />
+			    
+				<input id="saveForm" class="button_text" type="submit" name="submit" value="Donate / Пожертвовать" />
 		</li>
 			</ul>
 		</form>	
