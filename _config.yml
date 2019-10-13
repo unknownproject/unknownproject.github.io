@@ -1,6 +1,6 @@
-title: Unknownproject's Lair
-author: unknownproject
-email: nknwn.project@gmail.com
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: jekyllrb
-    github:  unknownproject
+    twitter: jekyllrb
+    github:  jekyll
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -25,7 +25,7 @@ minima:
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
-     youtube_channel: UCCjgivnEXTz7vLE4n894Wsg
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
