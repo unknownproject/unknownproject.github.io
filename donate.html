@@ -1,41 +1,57 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-  </head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Yandex Donation</title>
+<!--<link rel="stylesheet" type="text/css" href="view.css" media="all">-->
+<script type="text/javascript" src="view.js"></script>
+<link rel="stylesheet" href="/assets/css/style.css?v=">
 
-  <body>
-
- <!--   <header>
-	  <div class="links">
-	  <a href="https://steamcommunity.com/id/unknownproject/"><img id="img" class="logo" alt="" src="/assets/images/Steam.png" width="50" height="50" align=center></a><a href="/donate"> ==> Support me <== </a></li>
-	  </div>
-	</header>-->
-
-    <div class="container">
-      <section id="main_content">
-<form method="POST" action="https://money.yandex.ru/quickpay/confirm.xml">
-    <input type="hidden" name="receiver" value="41001263743821">
-    <input type="hidden" name="formcomment" value="Unknownproject">
-    <input type="hidden" name="short-dest" value="Unknownproject">
-    <input type="hidden" name="label" value="$261">
-    <input type="hidden" name="quickpay-form" value="donate">
-    <input type="hidden" name="targets" value="Support me">
-    <input name="sum" value="100" data-type="number">
-    <input name="comment" value="Thanks for your help">
-    <input type="hidden" name="need-fio" value="false">
-    <input type="hidden" name="need-email" value="true">
-    <input type="hidden" name="need-phone" value="false">
-    <input type="hidden" name="need-address" value="false">
-    <label><input type="radio" name="paymentType" value="PC">YandexMoney</label>
-    <label><input type="radio" name="paymentType" value="AC">Bank Card</label>
-	<label><input type="radio" name="paymentType" value="MC">Mobile Phone</label>
-    <input type="submit" value="Donate">
-</form>
-	  </section>
-	 </div>
-  </body>
+</head>
+<body id="main_body" >
+	
+	<img id="top" src="top.png" alt="">
+	<div id="form_container">
+	
+		<h1><a>Yandex Donation</a></h1>
+		<form id="form_85480" class="appnitro"  method="post" action="https://money.yandex.ru/quickpay/confirm.xml">
+		    <input type="hidden" name="receiver" value="41001263743821">
+            <input type="hidden" name="formcomment" value="Unknownproject">
+            <input type="hidden" name="short-dest" value="Unknownproject">
+            <input type="hidden" name="label" value="$261">
+            <input type="hidden" name="quickpay-form" value="donate">
+            <input type="hidden" name="targets" value="Support me">
+			<div class="form_description">
+			<h2>Yandex Donation</h2>
+			<p></p>
+		     </div>						
+			<ul>
+		<li id="li_1" ><label class="description" for="element_1">Sum </label>
+		<div>
+		<input id="element_1" name="element_1" class="edit" type="text" maxlength="255" value=""/> 
+		</div> 
+		</li>
+		<li id="li_2" ><label class="description" for="element_2">Comment </label>
+		<div>
+		<input id="element_2" name="element_2" class="edit" type="text" maxlength="255" value=""/> 
+		</div> 
+		</li>
+		    <input type="hidden" name="need-fio" value="false">
+            <input type="hidden" name="need-email" value="true">
+            <input type="hidden" name="need-phone" value="false">
+            <input type="hidden" name="need-address" value="false">
+            <label><input type="radio" name="paymentType" value="PC">YandexMoney</label>
+            <label><input type="radio" name="paymentType" value="AC">Bank Card</label>
+	        <label><input type="radio" name="paymentType" value="MC">Mobile Phone</label>
+			
+					<li class="buttons">
+			    <input type="hidden" name="form_id" value="85480" />
+			    
+				<input id="saveForm" class="button_text" type="submit" name="submit" value="Donate" />
+		</li>
+			</ul>
+		</form>	
+	</div>
+	<img id="bottom" src="bottom.png" alt="">
+	</body>
 </html>
