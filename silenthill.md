@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /silenthill.html
 ---
 
 ## Welcome to another page
