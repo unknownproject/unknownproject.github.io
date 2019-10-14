@@ -8,7 +8,7 @@ permalink: /silenthill.html
 **[[ HotKeys ]](hhttps://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt)**
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/Patch2.0_upd3_light_pt1.zip)**
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe)**
-
+![Title](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/shh_lbl.png)
 
 
 
