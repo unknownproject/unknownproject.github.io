@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**[[ Silent Hill ]](./silenthill.html)**
+**[[ Silent Hill ]](./silenthill_.html)**
 **[[ Indiana Jones ]](./indy.html)**
 **[[ Getting Up ]](./gettingup.html)**
 **[[ Spider-Man ]](./spiderman.html)**
