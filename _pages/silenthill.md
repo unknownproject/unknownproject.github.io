@@ -3,8 +3,6 @@ layout: default
 permalink: /silenthill.html
 ---
 
-## Welcome to another page
-
-_yay_
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 [back](./)
