@@ -3,7 +3,6 @@ layout: default
 permalink: /silenthill.html
 ---
 ![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png)
-![Title](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/shh_lbl.png)
 **[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt)**
 **[[ ChangeLog ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt)**
 **[[ HotKeys ]](hhttps://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt)**
