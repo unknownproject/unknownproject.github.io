@@ -2,10 +2,10 @@
 layout: default
 ---
 
-**[Silent Hill](./silenthill.html)**
-**[Indiana Jones](./indy.html)**
-**[Getting Up](./gettingup.html)**
-**[Spider-Man](./spiderman.html)**
+**[[ Silent Hill ]](./silenthill.html)**
+**[[ Indiana Jones ]](./indy.html)**
+**[[ Getting Up ]](./gettingup.html)**
+**[[ Spider-Man ]](./spiderman.html)**
 
 ```asm
 CALL DWORD PTR DS:[<&MSVCR80._aligned_free>]
