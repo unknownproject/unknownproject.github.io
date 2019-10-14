@@ -3,7 +3,7 @@ layout: default
 permalink: /silent_hill.html
 ---
 
-#Current version : 2.03.
+**Current version : 2.03.**
 
 ![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png)
 **[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt)**
