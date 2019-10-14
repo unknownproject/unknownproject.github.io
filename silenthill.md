@@ -10,4 +10,4 @@ permalink: /silenthill.html
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/Patch2.0_upd3_light_pt1.zip)**
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe)**
 
-[[ Back ]](./)
+**[[ Back ]](./)**
