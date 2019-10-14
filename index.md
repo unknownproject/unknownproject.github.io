@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[Silent Hill](./another-page.html).
-[Indiana Jones](./another-page.html).
-[Getting Up](./another-page.html).
-[Spider-Man](./another-page.html).
+[Silent Hill](./silenthill.html).
+[Indiana Jones](./silenthill.html).
+[Getting Up](./silenthill.html).
+[Spider-Man](./silenthill.html).
 
