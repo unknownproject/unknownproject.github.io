@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Donation</title>
+<link rel="stylesheet" type="text/css" href="assets/view.css" media="all">
+<script type="text/javascript" src="assets/view.js"></script>
+
+</head>
+<body id="main_body" >
+	
+	<img id="top" src="assets/images/top.png" alt="">
+	<div id="form_container">
+	
+		<h1><a>Yandex Donation</a></h1>
+		<form id="form_85480" class="appnitro"  method="post" action="https://money.yandex.ru/quickpay/confirm.xml">
+		    <input type="hidden" name="receiver" value="41001263743821">
+            <input type="hidden" name="formcomment" value="Unknownproject">
+            <input type="hidden" name="short-dest" value="Unknownproject">
+            <input type="hidden" name="label" value="$261">
+            <input type="hidden" name="quickpay-form" value="donate">
+            <input type="hidden" name="targets" value="Support unknownproject / Поддержка unknownproject">
+			<div class="form_description">
+			<h2>Yandex Donation / Донат через Яндекс</h2>
+			<p></p>
+		     </div>						
+			<ul>
+		    <li id="li_1" ><label class="description" for="element_1">Sum / Сумма</label>
+		    <div>
+		    <input id="element_1" name="sum" class="edit" type="text" maxlength="255" value=""/> 
+		    </div> 
+		    </li>
+		    <li id="li_2" ><label class="description" for="element_2">Comment / Комментарий</label>
+		    <div>
+		    <textarea id="element_2" name="comment" class="element textarea medium"></textarea> 
+		    </div> 
+		    </li>
+		    <input type="hidden" name="need-fio" value="false">
+            <input type="hidden" name="need-email" value="true">
+            <input type="hidden" name="need-phone" value="false">
+            <input type="hidden" name="need-address" value="false">
+            <label><input type="radio" name="paymentType" value="PC">YandexMoney / ЯндексДеньги</label>
+            <label><input type="radio" name="paymentType" value="AC">Bank Card / Банковская карта</label>
+	        <label><input type="radio" name="paymentType" value="MC">Mobile Phone / Моб. телефон</label>
+			
+					<li class="buttons">
+			    <input type="hidden" name="form_id" value="85480" />
+			    <input id="saveForm" class="image" src="/assets/images/yan_btn.png" width="254" height="63" align=left type="image" name="submit" />
+		</li>
+			</ul>
+		</form>	
+	</div>
+	<img id="bottom" src="assets/images/bottom.png" alt="">
+	 <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-149847970-1', 'auto');
+        ga('send', 'pageview');
+     </script>
+	</body>
+</html>
