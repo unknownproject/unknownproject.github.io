@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /silenthill.html
+permalink: /silent_hill.html
 ---
 
 #Current version : 2.03.
