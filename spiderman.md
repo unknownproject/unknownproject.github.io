@@ -12,7 +12,7 @@ permalink: /spiderman.html
 **[[ Back ]](./)**
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
         <li class="nav-item active">
-          <a class="nav-link active" href="#faq" data-toggle="tab">Grand Theft Auto</a>
+          <a class="nav-link" href="#faq" data-toggle="tab">[FAQ]</a>
         </li>
 <div class="tab-content">
       <div class="tab-pane active" id="faq">
