@@ -20,7 +20,9 @@ permalink: /silent_hill.html
 <a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>
 <div class="tab-content">
       <div class="tab-pane active" id="faq">
-      
+        > Q1: I have a black screen at startup, what can I do?
+        >
+        > A. Delete vars_pc.cfg then restart the game. If it doesn't work, disable any compatibility settings you have applied on the game. If still doesn't work, remove any d3d wrapper that hasn't been tested in full game save from start to finish.
 	  </div>
 </div>
 
