@@ -17,7 +17,7 @@ permalink: /silent_hill.html
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/Patch1.0_upd3_AiO_pt1.exe)**
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch1.0_upd3_AiO_pt2_beta.exe)**
 
-<a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>
+<!--<a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>-->
 <div class="tab-content">
       <div class="tab-pane active" id="faq">
         <div class="wrapper">
@@ -46,7 +46,7 @@ permalink: /silent_hill.html
 		  <h1>*QTE not responding to the buttons that I'm pressing.</h1>
           <p>The game engine fails to recognise input button when being rapidly pressed. And button counter also going down between delays. For some reason there are button-breaking sequences when you have to press the button at least 100 times.</p>
 		  <br>
-		  **[Partially Fixed in v.203]**
+		  **Partially Fixed in v.203**
 	  </div>
 	</div>
 </div>
