@@ -24,7 +24,6 @@ permalink: /silent_hill.html
 		  <h1>===========================</h1>
 		  <h1>I have a black screen at startup, what can I do?</h1>
           <p>Delete vars_pc.cfg then restart the game. If it doesn't work, disable any compatibility settings you have applied on the game. If still doesn't work, remove any d3d wrapper that hasn't been tested in full game save from start to finish.</p>
-		  <br>
 		  Also reset your GPU settings to application controlled, do not override any settings. Adaptive V-Sync causes some bugs/glitches.
 		  <h1>===========================</h1>
 		  <h1>Game crashes when ALT+TABbing.</h1>
@@ -41,7 +40,6 @@ permalink: /silent_hill.html
 		  <h1>===========================</h1>
 		  <h1>*QTE not responding to the buttons that I'm pressing.</h1>
           <p>The game engine fails to recognise input button when being rapidly pressed. And button counter also going down between delays. For some reason there are button-breaking sequences when you have to press the button at least 100 times.</p>
-		  <br>
 		  <h1>===========================</h1>
 		  <h2>Partially Fixed in v.203</h2>
 		  <h1>===========================</h1>
