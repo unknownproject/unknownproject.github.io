@@ -21,7 +21,7 @@ permalink: /silent_hill.html
 <div class="tab-content">
       <div class="tab-pane active" id="faq">
         <div class="wrapper">
-		  <h1>=================================================</h1>
+		  <h1>===========================</h1>
 		  <h1>I have a black screen at startup, what can I do?</h1>
           <p>Delete vars_pc.cfg then restart the game. If it doesn't work, disable any compatibility settings you have applied on the game. If still doesn't work, remove any d3d wrapper that hasn't been tested in full game save from start to finish.</p>
 		  <br>
@@ -47,8 +47,11 @@ permalink: /silent_hill.html
 		  <h1>*QTE not responding to the buttons that I'm pressing.</h1>
           <p>The game engine fails to recognise input button when being rapidly pressed. And button counter also going down between delays. For some reason there are button-breaking sequences when you have to press the button at least 100 times.</p>
 		  <br>
-		  **Partially Fixed in v.203**
-		  <h1>=================================================</h1>
+		  <h1>===========================</h1>
+		  <h1>|                         |</h1>
+		  <h2>| Partially Fixed in v.203|</h2>
+		  <h1>|                         |</h1>
+		  <h1>===========================</h1>
 	  </div>
 	</div>
 </div>
