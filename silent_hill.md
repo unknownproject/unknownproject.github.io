@@ -20,7 +20,7 @@ permalink: /silent_hill.html
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/Patch1.0_upd3_AiO_pt1.exe)**
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch1.0_upd3_AiO_pt2_beta.exe)**
 
-<!--<a class="nav-link" href="#enemyhealh" data-toggle="tab">**EnemyHealth**</a>-->
+<a class="nav-link" href="#enemyhealh" data-toggle="tab">**EnemyHealth**</a>
 <div class="tab-content">
       <div class="tab-pane active" id="enemyhealh">
         <div class="wrapper">
