@@ -14,6 +14,3 @@ permalink: /silent_hill.html
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe)**
 
 **[[ Back ]](./)**
-
-
-<a class="nav-link" href="#gta" data-toggle="tab">Grand Theft Auto</a>
