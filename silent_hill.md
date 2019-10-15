@@ -48,9 +48,7 @@ permalink: /silent_hill.html
           <p>The game engine fails to recognise input button when being rapidly pressed. And button counter also going down between delays. For some reason there are button-breaking sequences when you have to press the button at least 100 times.</p>
 		  <br>
 		  <h1>===========================</h1>
-		  <h1>|                         |</h1>
-		  <h2>| Partially Fixed in v.203|</h2>
-		  <h1>|                         |</h1>
+		  <h2>Partially Fixed in v.203</h2>
 		  <h1>===========================</h1>
 	  </div>
 	</div>
