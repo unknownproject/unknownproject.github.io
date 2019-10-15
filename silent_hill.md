@@ -6,6 +6,9 @@ permalink: /silent_hill.html
 **Current version : 2.03.**
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
     <li class="nav-item active">
+        <a class="nav-link active" href="#enemyhealh" data-toggle="tab">[ Enemy Health ]</a>
+    </li>
+    <li class="nav-item active">
         <a class="nav-link active" href="#faq" data-toggle="tab">[ FAQ ]</a>
     </li>
 </ul>	
@@ -16,6 +19,20 @@ permalink: /silent_hill.html
 **[[ HotKeys ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt)**
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/Patch1.0_upd3_AiO_pt1.exe)**
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch1.0_upd3_AiO_pt2_beta.exe)**
+
+<!--<a class="nav-link" href="#enemyhealh" data-toggle="tab">**EnemyHealth**</a>-->
+<div class="tab-content">
+      <div class="tab-pane active" id="enemyhealh">
+        <div class="wrapper">
+| Name | Type | Normal mode | Hard mode |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+	  </div>
+	</div>
+</div>
 
 <!--<a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>-->
 <div class="tab-content">
@@ -41,7 +58,7 @@ permalink: /silent_hill.html
 		  <h1>*QTE not responding to the buttons that I'm pressing.</h1>
           <p>The game engine fails to recognise input button when being rapidly pressed. And button counter also going down between delays. For some reason there are button-breaking sequences when you have to press the button at least 100 times.</p>
 		  <h1>===========================</h1>
-		  <h2>*Partially Fixed in v.203</h2>
+		  <h2>Partially Fixed in v.203</h2>
 		  <h1>===========================</h1>
 	  </div>
 	</div>
