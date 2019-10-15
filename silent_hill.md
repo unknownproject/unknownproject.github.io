@@ -4,6 +4,7 @@ permalink: /silent_hill.html
 ---
 
 **Current version : 2.03.**
+**[[ FAQ ]](./silent_hill#faq)**
 
 ![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png)
 **[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt)**
@@ -13,3 +14,6 @@ permalink: /silent_hill.html
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe)**
 
 **[[ Back ]](./)**
+
+
+<a class="nav-link" href="#gta" data-toggle="tab">Grand Theft Auto</a>
