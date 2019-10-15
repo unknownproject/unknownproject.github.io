@@ -21,8 +21,8 @@ permalink: /silent_hill.html
 <div class="tab-content">
       <div class="tab-pane active" id="faq">
         <div class="wrapper">
-		  <h1>Q1: I have a black screen at startup, what can I do?</h1>
-          <p>A. Delete vars_pc.cfg then restart the game. If it doesn't work, disable any compatibility settings you have applied on the game. If still doesn't work, remove any d3d wrapper that hasn't been tested in full game save from start to finish.</p>
+		  <b><h1>Q1: I have a black screen at startup, what can I do?</h1>
+          <p>A. Delete vars_pc.cfg then restart the game. If it doesn't work, disable any compatibility settings you have applied on the game. If still doesn't work, remove any d3d wrapper that hasn't been tested in full game save from start to finish.</p></b>
 	  </div>
 	</div>
 </div>
