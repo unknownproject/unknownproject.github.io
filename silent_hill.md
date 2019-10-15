@@ -17,12 +17,15 @@ permalink: /silent_hill.html
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/Patch1.0_upd3_AiO_pt1.exe)**
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/Patch_2.0/BETA/Patch1.0_upd3_AiO_pt2_beta.exe)**
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**EnemyHealth [v2.03].**
+
+|         Name         |   Type  | Normal mode | Hard mode |
+|:---------------------|:--------|:------------|:----------|
+| Sepulcher/FleshSack  | Monster |    200/55   |    300/85 |
+| Scarlet              | Monster |    666      |    1000   |
+| Asphyxia             | Monster |    300      |    500    |
+| Amnion               | Monster |    510      |    765    |
+| Curtis               | Human   |    150      |    225    |
 
 <!--<a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>-->
 <div class="tab-content">
