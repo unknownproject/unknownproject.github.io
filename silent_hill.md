@@ -41,7 +41,7 @@ permalink: /silent_hill.html
 		  <h1>*QTE not responding to the buttons that I'm pressing.</h1>
           <p>The game engine fails to recognise input button when being rapidly pressed. And button counter also going down between delays. For some reason there are button-breaking sequences when you have to press the button at least 100 times.</p>
 		  <h1>===========================</h1>
-		  <h2>Partially Fixed in v.203</h2>
+		  <h2>*Partially Fixed in v.203</h2>
 		  <h1>===========================</h1>
 	  </div>
 	</div>
