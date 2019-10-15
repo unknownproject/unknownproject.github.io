@@ -10,13 +10,13 @@ permalink: /spiderman.html
 
 
 **[[ Back ]](./)**
-<ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="wfpTabs" role="tablist">
+<ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
         <li class="nav-item active">
-          <a class="nav-link active" href="#gta" data-toggle="tab">Grand Theft Auto</a>
+          <a class="nav-link active" href="#faq" data-toggle="tab">Grand Theft Auto</a>
         </li>
-<a class="nav-link" href="#gta" data-toggle="tab">Grand Theft Auto</a>
+<a class="nav-link" href="#faq" data-toggle="tab">Grand Theft Auto</a>
 <div class="tab-content">
-      <div class="tab-pane active" id="gta">
+      <div class="tab-pane active" id="faq">
         <!-- GTA SA -->
         <div class="card" id="gtasa" style="border-color: #C6D9EF;">
           <div class="card-body row p-0 mx-0">
