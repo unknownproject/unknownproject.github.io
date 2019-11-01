@@ -28,7 +28,7 @@ AutoDetectScreenRatio=1
 ScreenAspectRatio=1.777778
 GameAspectRatio=1.777778
 
-Calculate aspect using the formula:
+Calculate aspect ratio using the formula:
 [16 div 9 = 1.777778]
 ```
 Windowed/Fullscreen settings
