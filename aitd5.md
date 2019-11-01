@@ -31,7 +31,7 @@ GameAspectRatio=1.777778
 Calculate aspect ratio like this:
 [16 div 9=1.777778]
 ```
-Windowed/Fullscreen setting
+Windowed/Fullscreen settings
 ```asm
 PCFullScreen=0
 ```
