@@ -6,6 +6,7 @@ layout: default
 **[[ Indiana Jones ]](./indy.html)**
 **[[ Getting Up ]](./gettingup.html)**
 **[[ Spider-Man ]](./spiderman.html)**
+**[[ Alone In The Dark - Inferno ]](./aitd5.html)**
 
 ```asm
 CALL DWORD PTR DS:[<&MSVCR80._aligned_free>]
