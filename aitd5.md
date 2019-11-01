@@ -6,7 +6,35 @@ permalink: /aitd5.html
 **[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/AITD5_Inferno/master/readme.txt)**
 **[[ Initial Release ]](https://github.com/unknownproject/AITD5_Inferno/raw/master/Aitd5_patch.zip)**
 
-
-
+Game.ini
+======================================================================
+Resolution settings
+```asm
+ResolutionWidth=1920
+ResolutionHeight=1080
+MinResolutionWidth=1920
+MinResolutionHeight=1080
+ResolutionHasChanged=0
+PrevResolutionWidth=1920
+PrevResolutionHeight=1080
+```
+Shadows settings.
+```asm
+ShadowSize=1024
+```
+Aspect ratio settings
+```asm
+AutoDetectScreenRatio=1
+```
+Windowed/Fullscreen setting
+```asm
+PCFullScreen=0 //Windowed or fullscreen mode
+```
+FPS settings
+```asm
+MinFPS=20.0000
+MaxFPS=60.0000
+```
+======================================================================
 
 **[[ Back ]](./)**	
