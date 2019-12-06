@@ -9,7 +9,7 @@ permalink: /silent_hill.html
         <a class="nav-link active" href="#faq" data-toggle="tab">[ FAQ ]</a>
     </li>
 	<li class="nav-item active">
-        <a class="nav-link active" href="#faq" data-toggle="tab">[ Special FAQ ]</a>
+        <a class="nav-link active" href="#spc" data-toggle="tab">[ Special FAQ ]</a>
     </li>
 </ul>	
 
@@ -20,7 +20,7 @@ permalink: /silent_hill.html
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/Patch2.0_upd3_AiO_pt1.exe)**
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe)**
 
-**EnemyHealth [v2.03].**
+**EnemyHealth [v2.03] or later.**
 
 |         Name         |   Type  | Normal mode | Hard mode |
 |:---------------------|:--------|:------------|:----------|
@@ -55,6 +55,22 @@ permalink: /silent_hill.html
           <p>The game engine fails to recognise input button when being rapidly pressed. And button counter also going down between delays. For some reason there are button-breaking sequences when you have to press the button at least 100 times.</p>
 		  <h1>===========================</h1>
 		  <h2>Partially Fixed in v.203</h2>
+		  <h1>===========================</h1>
+	  </div>
+	</div>
+</div>
+<div class="tab-content">
+      <div class="tab-pane active" id="spc">
+        <div class="wrapper">
+		  <h1>===========================</h1>
+		  <h1>I'm stupid and already installed your patch but I have 30 fps.</h1>
+          <p>Open vars_pc.cfg and change fpsLimit and maxFPSLimit to 60/120/144/300.</p>
+		  <h1>===========================</h1>
+		  <h1>I'm stupid and don't want to read your shitty txt's. Tell me how to set the game to use my native language.</h1>
+          <p>Open default_pc.cfg and change 'language=english' to german/french/italian/spanish or czech/polish/russian [extra brain cells required].</p>
+		  <h1>===========================</h1>
+		  <h1>I'm stupid and don't want to read your shitty txt's. Tell me how to set the game to use my preferred button prompts.</h1>
+          <p>Realtime switch [Num+ and Num-] works for everything except dialogue trees. Open default_pc.cfg and change 'resmgrload = assets_pc_b.xml' to ASSETS_PS3_B.xml [PS3]/assets_xenon_b.xml [X360] [all data files required].</p>
 		  <h1>===========================</h1>
 	  </div>
 	</div>
