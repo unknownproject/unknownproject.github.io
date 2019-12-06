@@ -70,7 +70,10 @@ permalink: /silent_hill.html
           <p>Open default_pc.cfg and change 'language=english' to german/french/italian/spanish or czech/polish/russian [extra brain cells required].</p>
 		  <h1>===========================</h1>
 		  <h1>I'm stupid and don't want to read your shitty txt's. Tell me how to set the game to use my preferred button prompts.</h1>
-          <p>Realtime switch [Num+ and Num-] works for everything except dialogue trees. Open default_pc.cfg and change 'resmgrload = assets_pc_b.xml' to ASSETS_PS3_B.xml [PS3]/assets_xenon_b.xml [X360] [all data files required].</p>
+          <p>Realtime switch [Num+ and Num-] works for everything except dialogue trees. Open default_pc.cfg and change 'resmgrload = assets_pc_b.xml' to ASSETS_PS3_B.xml [PS3]/assets_xenon_b.xml [X360].</p>
+		  <h1>===========================</h1>
+		  <h1>Who the fuck are you to call me "I'm stupid".</h1>
+          <p>Fuck off, kid. Self-education is not for you.</p>
 		  <h1>===========================</h1>
 	  </div>
 	</div>
