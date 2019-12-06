@@ -34,6 +34,7 @@ permalink: /silent_hill.html
 <div class="tab-content">
       <div class="tab-pane active" id="spc">
         <div class="wrapper">
+		  <h1>===========================</h1>
 		  <h1>I'm stupid and already installed your patch but I have 30 fps.</h1>
           <p>Open vars_pc.cfg and change fpsLimit and maxFPSLimit to 60/120/144/300.</p>
 		  <h1>===========================</h1>
