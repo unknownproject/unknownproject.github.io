@@ -36,13 +36,16 @@ permalink: /silent_hill.html
         <div class="wrapper">
 		  <h1>===========================</h1>
 		  <h1>I'm stupid and already installed your patch but I have 30 fps.</h1>
-          <p>Open vars_pc.cfg and change fpsLimit and maxFPSLimit to 60/120/144/300.</p>
+          <p>Open vars_pc.cfg and change 'fpsLimit' and 'maxFPSLimit' to 60/120/144/300.</p>
 		  <h1>===========================</h1>
 		  <h1>I'm stupid and don't want to read your shitty txt's. Tell me how to set the game to use my native language.</h1>
           <p>Open default_pc.cfg and change 'language=english' to german/french/italian/spanish or czech/polish/russian [extra brain cells required].</p>
 		  <h1>===========================</h1>
 		  <h1>I'm stupid and don't want to read your shitty txt's. Tell me how to set the game to use my preferred button prompts.</h1>
           <p>Realtime switch [Num+ and Num-] works for everything except dialogue trees. Open default_pc.cfg and change 'resmgrload = assets_pc_b.xml' to ASSETS_PS3_B.xml [PS3]/assets_xenon_b.xml [X360].</p>
+		  <h1>===========================</h1>
+		  <h1>My old controller doesn't work well with the game. What's wrong ?</h1>
+          <p>This is the x-input era game so it's 100% compatible with Xbox360 gamepads only. Direct input controller must be configured via Xbox 360 Joystick Emulator software. Then Copy x360ce.ini and xinput1_3.dll to the '/Bin' folder.</p>
 		  <h1>===========================</h1>
 		  <h1>Who the fuck are you to call me "I'm stupid".</h1>
           <p>Fuck off, kid. Self-education is not for you.</p>
