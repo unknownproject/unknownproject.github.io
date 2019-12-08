@@ -2,6 +2,7 @@
 layout: default
 permalink: /batman.html
 ---
+Arkham Origins: BlackGate. Deluxe Edition.
 ![Screenshot](https://github.com/unknownproject/Batman/raw/master/ArkhamOriginsBlackGate/BAOBG.jpg)
 **[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Batman/master/ArkhamOriginsBlackGate/ReadMe.txt)**
 **[[ Initial Release ]](https://github.com/unknownproject/Batman/raw/master/ArkhamOriginsBlackGate/Debug.zip)**
