@@ -32,8 +32,11 @@ permalink: /silent_hill.html
 
 ==============================================================
 Replacing/overriding of binds_pc_mjs.cfg is not recommended.
+
 This file was configured to fix in-game commands for better mouse/keyboard compatibility.
+
 If you want to customize your binds - use bindcfgs_pc.cfg instead.
+
 Forget about main menu configuration.
 ==============================================================
 
