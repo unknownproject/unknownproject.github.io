@@ -30,12 +30,12 @@ permalink: /silent_hill.html
 | Amnion               | Monster |    510      |    765    |
 | Curtis               | Human   |    150      |    225    |
 
-=========================================================================================
+==============================================================
 Replacing/overriding of binds_pc_mjs.cfg is not recommended.
 This file was configured to fix in-game commands for better mouse/keyboard compatibility.
 If you want to customize your binds - use bindcfgs_pc.cfg instead.
 Forget about main menu configuration.
-=========================================================================================
+==============================================================
 
 <!--<a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>-->
 <div class="tab-content">
