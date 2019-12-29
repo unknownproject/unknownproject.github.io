@@ -30,6 +30,13 @@ permalink: /silent_hill.html
 | Amnion               | Monster |    510      |    765    |
 | Curtis               | Human   |    150      |    225    |
 
+=========================================================================================
+Replacing/overriding of binds_pc_mjs.cfg is not recommended.
+This file was configured to fix in-game commands for better mouse/keyboard compatibility.
+If you want to customize your binds - use bindcfgs_pc.cfg instead.
+Forget about main menu configuration.
+=========================================================================================
+
 <!--<a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>-->
 <div class="tab-content">
       <div class="tab-pane active" id="spc">
@@ -38,10 +45,10 @@ permalink: /silent_hill.html
 		  <h1>I'm stupid and already installed your patch but I have 30 fps.</h1>
           <p>Open vars_pc.cfg and change 'fpsLimit' and 'maxFPSLimit' to 60/120/144/300.</p>
 		  <h1>===========================</h1>
-		  <h1>I'm stupid and don't want to read your shitty txt's. Tell me how to set the game to use my native language.</h1>
+		  <h1>I'm stupid and don't want to read your shitty txts. Tell me how to set the game to use my native language.</h1>
           <p>Open default_pc.cfg and change 'language=english' to german/french/italian/spanish or czech/polish/russian [extra brain cells required].</p>
 		  <h1>===========================</h1>
-		  <h1>I'm stupid and don't want to read your shitty txt's. Tell me how to set the game to use my preferred button prompts.</h1>
+		  <h1>I'm stupid and don't want to read your shitty txts. Tell me how to set the game to use my preferred button prompts.</h1>
           <p>Realtime switch [Num+ and Num-] works for everything except dialogue trees. Open default_pc.cfg and change 'resmgrload = assets_pc_b.xml' to ASSETS_PS3_B.xml [PS3]/assets_xenon_b.xml [X360].</p>
 		  <h1>===========================</h1>
 		  <h1>My old controller doesn't work well with the game. What's wrong ?</h1>
