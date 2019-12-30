@@ -24,5 +24,4 @@ ADD ESP,10
 RETN
 ```
 
-<iframe src="https://embed.restream.io/player/index.html?token=a2818cf5a011e184c1b3dcd92132b2f4" width="480" height="360" frameborder="0" allowfullscreen></iframe><p>Powered by <a href="https://restream.io">Restream.io</a></p>
-
+<iframe src="https://embed.restream.io/player/index.html?token=a2818cf5a011e184c1b3dcd92132b2f4" width="640" height="396" frameborder="0" allowfullscreen></iframe><p>Powered by <a href="https://restream.io">Restream.io</a></p>
