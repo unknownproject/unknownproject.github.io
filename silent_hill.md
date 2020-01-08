@@ -25,7 +25,7 @@ permalink: /silent_hill.html
 |         Name         |   Type  | Normal mode | Hard mode |
 |:---------------------|:--------|:------------|:----------|
 | Sepulcher/FleshSack  | Monster |    200/55   |    300/85 |
-| Scarlet              | Monster |    666      |    1000   |
+| Scarlet              | Monster |    665      |    1000   |
 | Asphyxia             | Monster |    300      |    450    |
 | Amnion               | Monster |    510      |    765    |
 | Curtis               | Human   |    150      |    225    |
