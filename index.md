@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<center><iframe src="https://discordapp.com/widget?id=512886164726743041&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></center>
 
 **[[ Silent Hill ]](./silent_hill.html)**
 **[[ Indiana Jones ]](./indy.html)**
@@ -11,6 +10,8 @@ layout: default
 
 **[[ Alone In The Dark - Inferno ]](./aitd5.html)**
 **[[ Half-Life ]](./hl.html)**
+
+<center><iframe src="https://discordapp.com/widget?id=512886164726743041&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></center>
 
 ```asm
 CALL DWORD PTR DS:[<&MSVCR80._aligned_free>]
