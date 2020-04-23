@@ -25,5 +25,5 @@ ADD ESP,10
 RETN
 ```
 
-<center><iframe src="https://discordapp.com/widget?id=512886164726743041&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></center>
+<iframe src="https://discordapp.com/widget?id=512886164726743041&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" allowfullscreen></iframe>
 <center><iframe src="https://embed.restream.io/player/index.html?token=a2818cf5a011e184c1b3dcd92132b2f4" width="640" height="360" frameborder="0" allowfullscreen></iframe></center>
