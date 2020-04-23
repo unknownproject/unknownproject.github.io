@@ -25,19 +25,4 @@ ADD ESP,10
 RETN
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<center><iframe src="https://discordapp.com/widget?id=512886164726743041&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe src="https://discordapp.com/widget?id=512886164726743041&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"</iframe></center>
