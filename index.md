@@ -2,12 +2,6 @@
 layout: default
 ---
 
-Author (Me) is an oldskool grayhat hacker and a reverse engineer. !!!Not a modder!!!
-By using one of my projects you're accepting the "AS IS" policy.
-Author is not responsible for your own lack of knowledge/hardware damages or anything else that happens with your system(s).
-Each project includes various txt files. If you don't want to read them - don't ever try to ask help or you will be banned.
-Author is making these things as part of his own hobby and spending as much time as he wants so your requests and complaining just make no sense for him.
-
 **[[ Silent Hill ]](./silent_hill.html)**
 **[[ Indiana Jones ]](./indy.html)**
 **[[ Getting Up ]](./gettingup.html)**
