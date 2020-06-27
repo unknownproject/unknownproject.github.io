@@ -18,7 +18,7 @@ permalink: /videos.html
     preload="auto"
     width="640"
     height="264"
-    poster="MY_VIDEO_POSTER.jpg"
+    poster="https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png"
     data-setup="{}"
   >
     <source src="MY_VIDEO.mp4" type="video/mp4" />
