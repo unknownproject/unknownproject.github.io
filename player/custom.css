@@ -500,7 +500,7 @@ body.vjs-full-window {
 
 .video-js:hover .vjs-big-play-button,
 .video-js .vjs-big-play-button:focus {
-  border-color: #fff;
+  border-color: #900;
   background-color: #73859f;
   background-color: rgba(115, 133, 159, 0.5);
   transition: all 0s;
