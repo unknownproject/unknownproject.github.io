@@ -2,20 +2,20 @@
 layout: default
 permalink: /videos.html
 ---
-<div id="instructions">
+<div id="block1">
 
   <video id="shh" class="video-js vjs-default-skin" width="640px" height="360px" data-setup ='{}'
-      controls preload="none" poster='http://content.bitsontherun.com/thumbs/3XnJSIm4-480.jpg'
-      data-setup='{ "aspectRatio":"640:360", "playbackRates": [1, 1.5, 2] }'>
+      controls preload="none" poster='https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png'
+      data-setup='{ "aspectRatio":"960:540", "playbackRates": [1, 1.5, 2] }'>
     <source src="p30_features.mp4" type="video/mp4">
   </video>
 
-  <p>Silent Hill Homecoming - Feature presentation [v 2.45+].</p>
+  <p><strong>Silent Hill Homecoming - Feature presentation [v 2.45+]</strong></p>
   </div>
 
 <style>
-  #instructions { max-width: 640px; text-align: left; margin: 30px auto; }
-  #instructions textarea { width: 100%; height: 100px; }
+  #block1 { max-width: 640px; text-align: left; margin: 30px auto; }
+  #block1 textarea { width: 100%; height: 100px; }
   
   /* Show the controls (hidden at the start by default) */
   .video-js .vjs-control-bar { 
