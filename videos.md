@@ -6,7 +6,7 @@ permalink: /videos.html
   <script src="player/video.min.js"></script>
 
 <body>
-  <video id="my-video" class="video-js vjs-big-play-centered" controls preload="auto" width="640" height="360" poster="/assets/images/SHH.png"
+  <video id="my-video" class="video-js vjs-big-play-centered vjs-control-bar" controls preload="auto" width="640" height="360" poster="/assets/images/SHH.png"
     data-setup='{ "aspectRatio":"640:360", "playbackRates": [1, 1.5, 2] }'>
     <source src="p30_features.mp4" type="video/mp4" />
     <p class="vjs-no-js">
