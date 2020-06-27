@@ -4,7 +4,7 @@ permalink: /videos.html
 ---
 <head>
   <link href="/player/current.css" rel="stylesheet" />
-  <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+  <script src="player/videojs-ie8.min.js"></script>
 </head>
 
 <body>
@@ -29,5 +29,5 @@ permalink: /videos.html
   
     <p><strong>Silent Hill Homecoming - Feature presentation [v2.45+]</strong></p>
 
-  <script src="https://vjs.zencdn.net/7.8.3/video.js"></script>
+  <script src="player/video.js"></script>
 </body>
