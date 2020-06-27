@@ -21,7 +21,8 @@ permalink: /silent_hill.html
 
   <video id="shh" class="video-js vjs-big-play-centered" controls preload="auto" width="640" height="360" poster="/assets/images/SHH.png"
     data-setup='{ "aspectRatio":"640:360", "playbackRates": [1, 1.5, 2] }'>
-    <source src="p30_features.mp4" type="video/mp4" />
+    <source src="video/p30_features.mp4" type="video/mp4" />
+	<track label="pt" kind="captions" srclang="pt" src="video/video/p30_features.srt" default="">
     <p class="vjs-no-js">
       To view this video please enable JavaScript, and consider upgrading to a
       web browser that
