@@ -2,7 +2,6 @@
 layout: default
 permalink: /videos.html
 ---
-======================================================================================================
 <head>
   <link href="player/video-js.css" rel="stylesheet" />
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
