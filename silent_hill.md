@@ -12,6 +12,7 @@ permalink: /silent_hill.html
         <a class="nav-link active" href="#faq" data-toggle="tab">[ FAQ ]</a>
     </li>
 </ul>
+
 ![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png)
 **[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt)**
 **[[ ChangeLog ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt)**
