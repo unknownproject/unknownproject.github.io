@@ -2,11 +2,6 @@
 layout: default
 permalink: /silent_hill.html
 ---
- <head>
- <title>afterglow player</title>
- <script type=”text/javascript” src=”//cdn.jsdelivr.net/afterglow/latest/afterglow.min.js”></script>
- </head>
- 
 **Current version : 2.48 / 3.0D [Public Beta] / 3.00 [Private].**
 
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
@@ -17,13 +12,7 @@ permalink: /silent_hill.html
         <a class="nav-link active" href="#faq" data-toggle="tab">[ FAQ ]</a>
     </li>
 </ul>
-
-<body>
- <video class=”afterglow” id=”myvideo” width=”1280" height=”720">
- <source type=”video/mp4" src=”https://unknownproject.github.io/video/p30_features.mp4" />
- </video>
-</body>	
-
+![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png)
 **[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt)**
 **[[ ChangeLog ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt)**
 **[[ HotKeys ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt)**
