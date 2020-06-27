@@ -2,7 +2,6 @@
 permalink: /videos.html
 ---
 <head>
-  <link rel="stylesheet" type="text/css" href="player/current.css">
   <script src="player/videojs-ie8.min.js"></script>
 </head>
 
