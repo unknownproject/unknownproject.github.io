@@ -3,7 +3,7 @@ layout: default
 permalink: /videos.html
 ---
 <head>
-  <link href="https://vjs.zencdn.net/7.8.3/video-js.css" rel="stylesheet" />
+  <link href="//player/custom/video-js.css" rel="stylesheet" />
   <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
 </head>
 
