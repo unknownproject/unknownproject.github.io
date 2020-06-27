@@ -11,13 +11,14 @@ permalink: /videos.html
 </head>
 
 <body>
+<center>
   <video
     id="my-video"
     class="video-js"
     controls
     preload="auto"
     width="640"
-    height="264"
+    height="360"
     poster="https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png"
     data-setup="{}"
   >
@@ -30,6 +31,6 @@ permalink: /videos.html
       >
     </p>
   </video>
-
+</center>
   <script src="https://vjs.zencdn.net/7.8.3/video.js"></script>
 </body>
