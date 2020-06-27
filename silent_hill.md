@@ -2,6 +2,12 @@
 layout: default
 permalink: /silent_hill.html
 ---
+<head>
+  <link href="player/video-js.css" rel="stylesheet" />
+  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+  <script src="player/videojs-ie8.min.js"></script>
+</head>
+<body>
 
 **Current version : 2.48 / 3.0D [Public Beta] / 3.00 [Private].**
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
@@ -13,7 +19,21 @@ permalink: /silent_hill.html
     </li>
 </ul>	
 
-![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png)
+  <video id="shh" class="video-js vjs-big-play-centered" controls preload="auto" width="640" height="360" poster="/assets/images/SHH.png"
+    data-setup='{ "aspectRatio":"640:360", "playbackRates": [1, 1.5, 2] }'>
+    <source src="p30_features.mp4" type="video/mp4" />
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser that
+      <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+  </video>
+  
+    <p><strong>Silent Hill Homecoming - Feature presentation [v2.45+]</strong></p>
+
+  <script src="player/video.js"></script>
+</body>
+
 **[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt)**
 **[[ ChangeLog ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt)**
 **[[ HotKeys ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt)**
