@@ -36,4 +36,3 @@ permalink: /videos.html
 
   a, a:hover, a:visited { color: #76DAFF; }
 </style>
-<script src="https://vjs.zencdn.net/7.8.3/video.js"></script>
