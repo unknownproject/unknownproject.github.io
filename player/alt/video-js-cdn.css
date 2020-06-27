@@ -478,15 +478,14 @@ body.vjs-full-window {
   height: 1.63332em;
   width: 3em;
   display: block;
-  position: relative;
+  position: absolute;
   top: 10px;
   left: 10px;
   padding: 0;
   cursor: pointer;
   opacity: 1;
-  /* fff - white, 000 - black, 900 - black */  
-  border: 0.06666em solid #000;
-  background-color: #9000;
+  border: 0.06666em solid #fff;
+  background-color: #2B333F;
   background-color: rgba(43, 51, 63, 0.7);
   border-radius: 0.3em;
   transition: all 0.4s;
@@ -500,8 +499,8 @@ body.vjs-full-window {
 
 .video-js:hover .vjs-big-play-button,
 .video-js .vjs-big-play-button:focus {
-  border-color: #900;
-  background-color: #000;
+  border-color: #fff;
+  background-color: #73859f;
   background-color: rgba(115, 133, 159, 0.5);
   transition: all 0s;
 }
@@ -1458,7 +1457,7 @@ video::-webkit-media-text-track-display {
 
 .video-js .vjs-subs-caps-button + .vjs-menu .vjs-captions-menu-item .vjs-menu-item-text .vjs-icon-placeholder:before {
   font-family: VideoJS;
-  content: "?";
+  content: "";
   font-size: 1.5em;
   line-height: inherit;
 }
@@ -1471,7 +1470,7 @@ video::-webkit-media-text-track-display {
 
 .video-js .vjs-audio-button + .vjs-menu .vjs-main-desc-menu-item .vjs-menu-item-text .vjs-icon-placeholder:before {
   font-family: VideoJS;
-  content: " ?";
+  content: " ";
   font-size: 1.5em;
   line-height: inherit;
 }
