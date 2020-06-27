@@ -17,6 +17,5 @@ var Player = videojs("player", {
 "width": 960,
 "height": 400,
 sources: [
-{ src: '30_features.mp4"', type: 'video/mp4'}],
-});
+{ src: '30_features.mp4"', type: 'video/mp4'}]});
 </script>
