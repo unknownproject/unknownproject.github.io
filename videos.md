@@ -7,7 +7,6 @@ permalink: /videos.html
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
   <script src="player/videojs-ie8.min.js"></script>
 </head>
-<body>
 
   <video id="shh" class="video-js vjs-big-play-centered" controls preload="auto" width="640" height="360" poster="/assets/images/SHH.png"
     data-setup='{ "aspectRatio":"640:360", "playbackRates": [1, 1.5, 2] }'>
@@ -22,6 +21,5 @@ permalink: /videos.html
     <p><strong>Silent Hill Homecoming - Feature presentation [v2.45+]</strong></p>
 
   <script src="player/video.js"></script>
-</body>
 
 **[[ Back ]](./)**
