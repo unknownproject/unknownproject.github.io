@@ -15,7 +15,7 @@ permalink: /videos.html
     preload="auto"
     width="640"
     height="360"
-    poster="https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png'"
+    poster="/assets/images/SHH.png"
     data-setup='{ "aspectRatio":"640:360", "playbackRates": [1, 1.5, 2] }'>
     <source src="p30_features.mp4" type="video/mp4" />
     <p class="vjs-no-js">
