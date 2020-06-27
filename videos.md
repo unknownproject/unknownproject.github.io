@@ -10,7 +10,6 @@ permalink: /videos.html
   <video
     id="my-video"
     class="video-js"
-    controls
     preload="auto"
     width="640"
     height="360"
