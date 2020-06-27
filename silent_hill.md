@@ -7,9 +7,9 @@ permalink: /silent_hill.html
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
   <script src="player/videojs-ie8.min.js"></script>
 </head>
+**Current version : 2.48 / 3.0D [Public Beta] / 3.00 [Private].**
 <body>
 
-**Current version : 2.48 / 3.0D [Public Beta] / 3.00 [Private].**
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
 	<li class="nav-item active">
         <a class="nav-link active" href="#spc" data-toggle="tab">[ Special FAQ ]</a>
