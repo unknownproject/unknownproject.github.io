@@ -478,7 +478,7 @@ body.vjs-full-window {
   height: 1.63332em;
   width: 3em;
   display: block;
-  position: absolute;
+  position: relative;
   top: 10px;
   left: 10px;
   padding: 0;
