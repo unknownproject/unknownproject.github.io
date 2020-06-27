@@ -4,9 +4,9 @@ permalink: /videos.html
 ---
 <div id="block1">
 
-  <video id="shh" class="video-js vjs-default-skin" width="640px" height="360px" data-setup ='{}'
+  <video id="shh" class="video-js vjs-default-skin" width="800px" height="450px" data-setup ='{}'
       controls preload="none" poster='https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png'
-      data-setup='{ "aspectRatio":"960:540", "playbackRates": [1, 1.5, 2] }'>
+      data-setup='{ "aspectRatio":"800:450", "playbackRates": [1, 1.5, 2] }'>
     <source src="p30_features.mp4" type="video/mp4">
   </video>
 
@@ -35,5 +35,5 @@ permalink: /videos.html
     background: radial-gradient(#333, hsl(200,30%,6%) );
   }
 
-  a, a:hover, a:visited { color: #76DAFF; }
+  a, a:hover, a:visited { color: #ffb000; }
 </style>
