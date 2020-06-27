@@ -1,5 +1,4 @@
 ---
-layout: default
 permalink: /videos.html
 ---
 <head>
