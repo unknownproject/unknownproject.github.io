@@ -9,7 +9,7 @@ permalink: /videos.html
 </head>
 <body>
 
-  <video id="shh" class="video-js vjs-big-play-centered" controls preload="auto" poster="/assets/images/SHH.png"
+  <video id="shh" class="video-js vjs-big-play-centered" controls preload="auto" width="640" height="360" poster="/assets/images/SHH.png"
     data-setup='{ "aspectRatio":"640:360", "playbackRates": [1, 1.5, 2] }'>
     <source src="video/p30_features.mp4" type="video/mp4" />
 	<track label="en" kind="captions" srclang="en" src="video/p30_features.srt" default="">
