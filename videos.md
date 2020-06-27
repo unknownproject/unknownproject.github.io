@@ -3,7 +3,7 @@ layout: default
 permalink: /videos.html
 ---
 <head>
-  <link href="/player/current.css" rel="stylesheet" />
+  <link href="player/current.css" rel="stylesheet" />
   <script src="player/videojs-ie8.min.js"></script>
 </head>
 
