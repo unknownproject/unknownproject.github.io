@@ -17,7 +17,7 @@ permalink: /videos.html
     controls
     preload="auto"
     width="640"
-    height="480"
+    height="264"
     poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
   >
