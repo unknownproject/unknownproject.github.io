@@ -12,7 +12,7 @@ permalink: /videos.html
 <body>
   <video
     id="my-video"
-    class="video-js vjs-big-play-centered"
+    class="video-js"
     controls
     preload="auto"
     width="640"
