@@ -21,8 +21,7 @@ permalink: /videos.html
     poster="https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png"
     data-setup="{}"
   >
-    <source src="MY_VIDEO.mp4" type="video/mp4" />
-    <source src="MY_VIDEO.webm" type="video/webm" />
+    <source src="p30_features.mp4" type="video/mp4" />
     <p class="vjs-no-js">
       To view this video please enable JavaScript, and consider upgrading to a
       web browser that
