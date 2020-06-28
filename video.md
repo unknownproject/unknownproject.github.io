@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /spiderman.html
+permalink: /video.html
 ---
 
 <head>
