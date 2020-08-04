@@ -20,7 +20,7 @@ permalink: /silent_hill.html
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/Patch2.0_upd3_AiO_pt1.exe)**
 **[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe)**
 
-**EnemyHealth [v2.03] or later.**
+**EnemyHealth [v2.03 -> 2.49].**
 
 |         Name         |   Type  | Normal mode | Hard mode |
 |:---------------------|:--------|:------------|:----------|
