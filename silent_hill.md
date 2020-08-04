@@ -63,7 +63,6 @@ Forget about main menu configuration.
 <div class="tab-content">
       <div class="tab-pane active" id="faq">
         <div class="wrapper">
-		  <h1>===========================</h1>
 		  <h2>
 		  <p>PAY ATTENTION TO THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong></p>
 		  <p>DON'T FORGET TO CHECK THE <strong><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1280019463">[ STEAM GUIDE ]</a></strong></p>
