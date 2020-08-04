@@ -84,7 +84,7 @@ Forget about main menu configuration.
           <p>The game engine fails to recognise input button when being rapidly pressed. And button counter also going down between delays. For some reason there are button-breaking sequences when you have to press the button at least 100 times.</p>
 		  <h1>===========================</h1>
 		  <h2>
-		  <p>PAY ATTENTION TO THE CHANGELOG.</p>
+		  <p>PAY ATTENTION TO THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong.</p>
 		  <p>DON'T FORGET TO CHECK THE <strong><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1280019463">[ STEAM GUIDE ]</a></strong></p>
 		  </h2> 
 		  <h1>===========================</h1>
