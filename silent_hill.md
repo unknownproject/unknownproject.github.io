@@ -85,8 +85,9 @@ Forget about main menu configuration.
 		  <h1>===========================</h1>
 		  <h2>
 		  <p>PAY ATTENTION TO THE CHANGELOG.</p>
-		  <p>DON'T FORGET TO CHECK</p> 
-		  THE **[[ STEAM GUIDE ]](https://steamcommunity.com/sharedfiles/filedetails/?id=1280019463)**.</h2>
+		  <p>DON'T FORGET TO CHECK THE</p> 
+		  **[[ STEAM GUIDE ]](https://steamcommunity.com/sharedfiles/filedetails/?id=1280019463)**
+		  </h2>
 		  <h1>===========================</h1>
 	  </div>
 	</div>
