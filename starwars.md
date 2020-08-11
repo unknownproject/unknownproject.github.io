@@ -8,7 +8,8 @@ Add the following string
 ```asm 
 <s id="VideoWindowed">1</s>
 ``` 
-right after the "VideoHeight" option
+right after the "VideoHeight" option.
+
 Setting "VideoWindowed" to 0 is equal to the fullscreen mode.
 =========================================================================================
 
