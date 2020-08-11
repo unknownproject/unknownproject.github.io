@@ -9,7 +9,7 @@ Add the following string
 <s id="VideoWindowed">1</s>
 ``` 
 right after the "VideoHeight" option.
-
+=========================================================================================
 Setting "VideoWindowed" to 0 is equal to the fullscreen mode.
 =========================================================================================
 
