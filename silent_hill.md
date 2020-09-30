@@ -2,7 +2,7 @@
 layout: default
 permalink: /silent_hill.html
 ---
-**Current version : 2.45 / 3.0D [Public Beta] / 3.00 [Private]**
+**Current version : 2.50 / 3.0D [Public Beta] / 3.00 [Private]**
 
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
 	<li class="nav-item active">
