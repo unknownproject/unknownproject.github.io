@@ -2,7 +2,7 @@
 layout: default
 permalink: /silent_hill.html
 ---
-**Current version : 2.49 / 3.0D [Public Beta] / 3.00 [Private]**
+**Current version : 2.45 / 3.0D [Public Beta] / 3.00 [Private]**
 
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
 	<li class="nav-item active">
@@ -18,9 +18,9 @@ permalink: /silent_hill.html
 **[[ ChangeLog ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt)**
 **[[ HotKeys ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt)**
 **[[ Stable Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/Patch2.0_upd3_AiO_pt1.exe)**
-**[[ Beta WIP ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/BETA/Patch2.0_upd3_AiO_pt2_beta.exe)**
+**[[ PreRelease - Actual Update ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/PreReleases/Patch2.5_PreRelease.exe)**
 
-**EnemyHealth [v2.03 pt2 -> 2.49].**
+**EnemyHealth [v2.03 pt2 -> 2.50].**
 
 |         Name         |   Type  | Normal mode | Hard mode |
 |:---------------------|:--------|:------------|:----------|
