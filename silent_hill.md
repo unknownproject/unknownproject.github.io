@@ -65,7 +65,7 @@ Forget about main menu configuration.
         <div class="wrapper">
 		  <h2>
 		  <p>PAY ATTENTION TO THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong></p>
-		  <p>DON'T FORGET TO CHECK THE <strong><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1280019463">[ STEAM GUIDE ]</a></strong></p>
+		  <p>DON'T FORGET TO CHECK THE <strong><a href="https://github.com/unknownproject/Silent_Hill_Homecoming/tree/master/Patches/SteamGuideBackup">[ STEAM GUIDE ]</a></strong></p>
 		  </h2> 
 		  <h1>===========================</h1>
 	  </div>
