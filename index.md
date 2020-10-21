@@ -14,8 +14,6 @@ layout: default
 
 **[[ Crash Bandicoot ]](./crashbandicoot.html)**
 
-**[[ SHH_GUIDE_BACKUP ]](./shh_guide.html)**
-
 ```asm
 CALL DWORD PTR DS:[<&MSVCR80._aligned_free>]
 ADD ESP,4
