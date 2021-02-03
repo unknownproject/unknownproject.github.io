@@ -1,5 +1,5 @@
-<li class="downloads">
-  <a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016">
-  <img src="/assets/images/support_full_3.png" width="116" height="36"/> 
-  </a>
-</li>
+<li class="downloads"><a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016"><img src="/assets/images/support_full_3.png" width="116" height="36"/></a></li>
+<li class="downloads"><a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016"><img src="/assets/images/support_full_3.png" width="116" height="36"/></a></li>
+<li class="downloads"><a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016"><img src="/assets/images/support_full_3.png" width="116" height="36"/></a></li>
+<li class="downloads"><a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016"><img src="/assets/images/support_full_3.png" width="116" height="36"/></a></li>
+<li class="downloads"><a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016"><img src="/assets/images/support_full_3.png" width="116" height="36"/></a></li>
