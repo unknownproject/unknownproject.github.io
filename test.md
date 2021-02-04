@@ -3,7 +3,7 @@
 <li class="downloads"><a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016"><img src="/assets/images/support_full_3.png" width="116" height="36"/></a></li>
 <li class="downloads"><a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016"><img src="/assets/images/support_full_3.png" width="116" height="36"/></a></li>
 <li class="downloads"><a href="https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016"><img src="/assets/images/support_full_3.png" width="116" height="36"/></a></li>
-<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn" data-address="3FePstQL8Nudkd182D7KAEF29rCTadpN5q" data-shared="false">
+<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn" data-address="1La9snD8Kao9WNexqH1j5t6PbeAtNtXTio" data-shared="false">
   <div class="blockchain stage-begin">
       <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
   </div>
