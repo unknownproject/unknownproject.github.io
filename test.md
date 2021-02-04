@@ -12,6 +12,7 @@
         </div>
         <div class="blockchain stage-ready">
         <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
+		<input id="amnt" name="value" class="edit" type="text" maxlength="255" value="">
         <p align="center" class="qr-code"></p>
         </div>
         <div class="blockchain stage-paid">
