@@ -4,8 +4,8 @@ permalink: /batman.html
 ---
 Arkham Origins: BlackGate. Deluxe Edition.
 ![Screenshot](https://github.com/unknownproject/Batman/raw/master/ArkhamOriginsBlackGate/BAOBG.jpg)
-**[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Batman/master/ArkhamOriginsBlackGate/ReadMe.txt)**
-**[[ Initial Release ]](https://github.com/unknownproject/Batman/raw/master/ArkhamOriginsBlackGate/Debug.zip)**
+<a href="https://raw.githubusercontent.com/unknownproject/Batman/master/ArkhamOriginsBlackGate/ReadMe.txt"><img src="/assets/images/rm.png" width="112" height="36"/></a>
+<a href="https://github.com/unknownproject/Batman/raw/master/ArkhamOriginsBlackGate/Debug.zip"><img src="/assets/images/au.png" width="112" height="36"/></a>
 
 ```asm
 --------------------------------------------------------------------------------
