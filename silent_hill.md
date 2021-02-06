@@ -14,11 +14,11 @@ permalink: /silent_hill.html
 </ul>
 
 ![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/SHH.png)
-**[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt)**
-**[[ ChangeLog ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt)**
-**[[ HotKeys ]](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt)**
-**[[ Old Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/Patch2.0_upd3_AiO_pt1.exe)**
-**[[ Actual Update ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/PreReleases/Patch2.5_PreRelease.exe)**
+<a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt"><img src="/assets/images/rm.png" width="112" height="36"/></a>
+<a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt"><img src="/assets/images/cl.png" width="112" height="36"/></a>
+<a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt"><img src="/assets/images/hk.png" width="112" height="36"/></a>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/Patch2.0_upd3_AiO_pt1.exe"><img src="/assets/images/or.png" width="112" height="36"/></a>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/PreReleases/Patch2.5_PreRelease.exe"><img src="/assets/images/au.png" width="112" height="36"/></a>
 
 **EnemyHealth [v2.03 pt2 -> 2.50].**
 
