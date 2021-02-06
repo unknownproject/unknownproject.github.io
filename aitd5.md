@@ -6,7 +6,7 @@ permalink: /aitd5.html
 
 ![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/aitd5.png)
 <a href="https://raw.githubusercontent.com/unknownproject/AITD5_Inferno/master/readme.txt"><img src="/assets/images/rm.png" width="112" height="36"/></a>
-<a href="https://github.com/unknownproject/AITD5_Inferno/raw/master/Aitd5_patch.zip" width="112" height="36"/></a>
+<a href="https://github.com/unknownproject/AITD5_Inferno/raw/master/Aitd5_patch.zip"><img src="/assets/images/au.png" width="112" height="36"/></a>
 
 Game.ini [Conf.ini] - Main settings
 ======================================================================
