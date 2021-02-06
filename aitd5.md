@@ -5,8 +5,8 @@ permalink: /aitd5.html
 **Update 1 - September 2020**
 
 ![Screenshot](https://raw.githubusercontent.com/unknownproject/unknownproject.github.io/master/assets/images/aitd5.png)
-**[[ ReadMe ]](https://raw.githubusercontent.com/unknownproject/AITD5_Inferno/master/readme.txt)**
-**[[ Current Release ]](https://github.com/unknownproject/AITD5_Inferno/raw/master/Aitd5_patch.zip)**
+<a href="https://raw.githubusercontent.com/unknownproject/AITD5_Inferno/master/readme.txt"><img src="/assets/images/rm.png" width="112" height="36"/></a>
+<a href="https://github.com/unknownproject/AITD5_Inferno/raw/master/Aitd5_patch.zip" width="112" height="36"/></a>
 
 Game.ini [Conf.ini] - Main settings
 ======================================================================
