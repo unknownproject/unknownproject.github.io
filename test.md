@@ -20,6 +20,10 @@ permalink: /test.html
 **[[ Old Release ]](https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/Patch2.0_upd3_AiO_pt1.exe)**
 **https://unknownproject.github.io//assets/images/dn.png (https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/PreReleases/Patch2.5_PreRelease.exe)**
 <a href="https://steamcommunity.com/profiles/76561198017988277"><img src="/assets/images/st.png" width="112" height="36"/></a>
+<a href="https://steamcommunity.com/profiles/76561198017988277"><img src="/assets/images/st.png" width="112" height="36"/></a>
+<a href="https://steamcommunity.com/profiles/76561198017988277"><img src="/assets/images/st.png" width="112" height="36"/></a>
+<a href="https://steamcommunity.com/profiles/76561198017988277"><img src="/assets/images/st.png" width="112" height="36"/></a>
+<a href="https://steamcommunity.com/profiles/76561198017988277"><img src="/assets/images/st.png" width="112" height="36"/></a>
 
 **EnemyHealth [v2.03 pt2 -> 2.50].**
 
