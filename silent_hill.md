@@ -57,7 +57,6 @@ Forget about main menu configuration.
 		  <h1>My old controller doesn't work well with the game. What's wrong ?</h1>
           <p>The X-Input era games are 100% compatible with Xbox360 gamepads only. Any DirectInput controller must be configured via Xbox 360 Joystick Emulator (or similar) software. Don't forget to copy x360ce.ini and xinput1_3.dll to the '/Bin' folder.</p>
 		  <h1>===========================</h1>
-		  <h1>===========================</h1>
 		  <h1>How to mod the game ?</h1>
           <p>My patch features the enhanced resource manager to support mods. Copy your modified 'global.pak' to the "\Engine\extras\" folder. Open default_pc.cfg and delete or comment 'resmgrload = assets_pc_b.xml'. Don't touch any other strings. </p>
 		  <h1>===========================</h1>
