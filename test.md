@@ -5,6 +5,7 @@ permalink: /test.html
 <center>
   <a style="width:200px;height:100px;display:block;margin-bottom:0.6em;background:url(https://yoomoney.ru/transfer/balance-informer/balance?id=28869014&key=226A2D499DF3688B) 0 0 no-repeat"></a>
 </center>
+<center>
 <table cellPadding="0" cellSpacing="0"><tr><td><div style="padding:0.6em;background-color:#232322;border:1px solid #ffff00;border-radius:7px">
     <form action="https://yoomoney.ru/quickpay/confirm.xml" method="post"><input type="hidden" name="receiver" value="41001263743821"/>
       <input name="sum" width="640" value="100"/><input type="hidden" name="origin" value="button"/><input type="hidden" name="quickpay-form" value="small"/>
@@ -19,6 +20,7 @@ permalink: /test.html
       <input type="submit" width="640" value="Support the project"/>
 	</form></div></td></tr>
 </table>
+</center>
 
 
 
