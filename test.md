@@ -2,6 +2,7 @@
 layout: default
 permalink: /test.html
 ---
+<table cellPadding="0" cellSpacing="0"><tr><td><div style="padding:0.6em;background-color:#dae6f2;border:1px solid #b8cfe6;border-radius:7px"><a style="width:200px;height:100px;display:block;margin-bottom:0.6em;background:url(https://yoomoney.ru/transfer/balance-informer/balance?id=28869014&key=226A2D499DF3688B) 0 0 no-repeat"></a><form action="https://yoomoney.ru/quickpay/confirm.xml" method="post"><input type="hidden" name="receiver" value="41001263743821"/><input type="hidden" name="sum" value="100"/><input type="hidden" name="origin" value="button"/><input type="hidden" name="quickpay-form" value="small"/><input type="hidden" name="targets" value="На хорошее дело не жалко!"/><input type="hidden" name="comment" value="Пожертвование через виджет «Мой баланс»"/><input type="submit" style="width:100%" value="Поддержать проект"/></form></div></td></tr></table>
 **Current version : 2.50 / 3.0D [Public Beta] / 3.00 [Private]**
 
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
