@@ -10,9 +10,9 @@ permalink: /test.html
       <input type="hidden" name="need-email" value="true">
       <input type="hidden" name="need-phone" value="false">
       <input type="hidden" name="need-address" value="false">
-	  <label><input type="radio" name="paymentType" value="PC">YandexMoney / ЯндексДеньги</label>
-      <label><input type="radio" name="paymentType" value="AC">Bank Card / Банковская карта</label>
-	  <label><input type="radio" name="paymentType" value="MC">Mobile Phone / Моб. телефон</label>
+	  <label><input type="radio" name="paymentType" value="PC">YooMoney</label>
+      <label><input type="radio" name="paymentType" value="AC">Bank Card</label>
+	  <label><input type="radio" name="paymentType" value="MC">Mob. Phone</label>
       <input type="submit" width="640" value="Support the project"/>
 	</form></div></td></tr>
 </table>
