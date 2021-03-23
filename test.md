@@ -2,25 +2,24 @@
 layout: default
 permalink: /test.html
 ---
-<center>
-  <a style="width:200px;height:100px;display:block;margin-bottom:0.6em;background:url(https://yoomoney.ru/transfer/balance-informer/balance?id=28869014&key=226A2D499DF3688B) 0 0 no-repeat"></a>
-</center>
-<center>
-<table cellPadding="0" cellSpacing="0"><tr><td><div style="padding:0.6em;background-color:#232322;border:1px solid #ffff00;border-radius:7px">
-    <form action="https://yoomoney.ru/quickpay/confirm.xml" method="post"><input type="hidden" name="receiver" value="41001263743821"/>
-      <input name="sum" width="640" value="100"/><input type="hidden" name="origin" value="button"/><input type="hidden" name="quickpay-form" value="small"/>
-      <input type="hidden" name="targets" value="Support unknownproject / Поддержка unknownproject"/><input type="hidden" name="comment" value="Voluntary donation"/>
-	  <input type="hidden" name="need-fio" value="false">
-      <input type="hidden" name="need-email" value="true">
-      <input type="hidden" name="need-phone" value="false">
-      <input type="hidden" name="need-address" value="false">
-	  <label><input type="radio" name="paymentType" value="PC">YooMoney</label>
-      <label><input type="radio" name="paymentType" value="AC">Bank Card</label>
-	  <label><input type="radio" name="paymentType" value="MC">Mob. Phone</label>
-      <input type="submit" width="640" value="Support the project"/>
-	</form></div></td></tr>
-</table>
-</center>
+---
+**Current version : 2.50 / 3.0D [Public Beta] / 3.00 [Private]**
+
+<ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
+	<li class="nav-item active">
+        <a class="nav-link active" href="#spc" data-toggle="tab">[ Special FAQ ]</a>
+    </li>
+    <li class="nav-item active">
+        <a class="nav-link active" href="#faq" data-toggle="tab">[ FAQ ]</a>
+    </li>
+</ul>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Updater/Patch_Updater.zip">[Download My Official Updater Utility]</a>
+![Screenshot](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/Updater/Scrnshot.png)
+<a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt"><img src="/assets/images/rm.png" width="112" height="36"/></a>
+<a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt"><img src="/assets/images/cl.png" width="112" height="36"/></a>
+<a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt"><img src="/assets/images/hk.png" width="112" height="36"/></a>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/Patch2.0_upd3_AiO_pt1.exe"><img src="/assets/images/or.png" width="112" height="36"/></a>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/PreReleases/Patch2.5_PreRelease.exe"><img src="/assets/images/au.png" width="112" height="36"/></a>
 
 
 
