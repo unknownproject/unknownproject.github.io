@@ -3,7 +3,7 @@ layout: default
 permalink: /silent_hill.html
 ---
 **Current version : 2.50 / 3.0D [Public Beta] / 3.00 [Private]**
-
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Updater/Patch_Updater.zip"><b><u>[Download My Official Updater Utility]</u></b></a>
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
 	<li class="nav-item active">
         <a class="nav-link active" href="#spc" data-toggle="tab">[ Special FAQ ]</a>
@@ -12,8 +12,6 @@ permalink: /silent_hill.html
         <a class="nav-link active" href="#faq" data-toggle="tab">[ FAQ ]</a>
     </li>
 </ul>
-
-<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Updater/Patch_Updater.zip"><b><u>[Download My Official Updater Utility]</u></b></a>
 ![Screenshot](https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/Updater/Scrnshot.png)
 <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt"><img src="/assets/images/rm.png" width="112" height="36"/></a>
 <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt"><img src="/assets/images/cl.png" width="112" height="36"/></a>
