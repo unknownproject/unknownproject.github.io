@@ -61,6 +61,13 @@ Forget about main menu configuration.
 		  <h1>How to mod the game ?</h1>
           <p>My patch features the enhanced resource manager to support mods. Copy your modified 'global.pak' to the "\Engine\extras\" folder. Open default_pc.cfg and delete or comment 'resmgrload = assets_pc_b.xml'. Don't touch any other strings. </p>
 		  <h1>===========================</h1>
+		  <h1>Performance in the game sucks. But why ?</h1>
+          <p>The game is actively using only one (main) software thread that was optimized to execute each frame for 33 ms. AI/Physics and other CPU operations are less or more intensive than graphics API calls. 3 more threads - LoadingScreen/StdAudioEngine/AsyncDiscAccess are executed when needed. In short - we're facing an old multithreading model. 
+		  Windows is not a realtime OS. And its scheduler is executing and suspending threads to share CPU resources efficiently between all running applications. The real solution is to make the multithreading model more adaptive. But how - that is the question. </p>
+		  <h1>===========================</h1>
+		  <h1>Hotkeys don't work.</h1>
+          <p>Most of these hotkeys have debugging purpose to force/activate special in-game variables or triggers. A bunch of them were bound to the fps counter display on purpose. </p>
+		  <h1>===========================</h1>
 	  </div>
 	</div>
 </div>
