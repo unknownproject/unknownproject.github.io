@@ -17,6 +17,7 @@ permalink: /archive.html
 		  <h1>===========================</h1>
 		  <h1>Quick analysis of the game data file.</h1>
               ![Screenshot](https://unknownproject.github.io/archive/1.png)
+			  <img src="/archive/1.png" width="112" height="36"/>
 		  <h1>===========================</h1>
 		  <h1>Steam and freeware Japanese shit.</h1>
               ![Screenshot](https://unknownproject.github.io/archive/2.png)
