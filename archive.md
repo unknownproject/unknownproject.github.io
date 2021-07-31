@@ -16,17 +16,16 @@ permalink: /archive.html
         <div class="wrapper">
 		  <h1>===========================</h1>
 		  <h1>Quick analysis of the game data file.</h1>
-              ![Screenshot](https://unknownproject.github.io/archive/1.png)
-			  <img src="/archive/1.png" width="112" height="36"/>
+			  <img src="/archive/1.png" width="1566" height="870"/>
 		  <h1>===========================</h1>
 		  <h1>Steam and freeware Japanese shit.</h1>
-              ![Screenshot](https://unknownproject.github.io/archive/2.png)
+			  <img src="/archive/1.png" width="1282" height="754"/>
 		  <h1>===========================</h1>
 		  <h1>Administrative Privilege Escalation - Windows 10.</h1>
-              ![Screenshot](https://unknownproject.github.io/archive/3.bmp)
+			  <img src="/archive/3.bmp" width="469" height="203"/>
 		  <h1>===========================</h1>
 		  <h1>[Patch] Alone In The Dark - The New Nightmare</h1>
-              ![Screenshot](https://unknownproject.github.io/archive/4.png)
+			  <img src="/archive/4.png" width="642" height="507"/>
 		  <h1>===========================</h1>
 	  </div>
 	</div>
