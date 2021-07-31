@@ -19,7 +19,7 @@ permalink: /archive.html
 		  <center><img src="/archive/1.png" width="783" height="435"/></center>
 		  <h1>===========================</h1>
 		  <h1>Steam and freeware Japanese shit.</h1>
-		  <center><img src="/archive/1.png" width="641" height="377"/></center>
+		  <center><img src="/archive/2.png" width="641" height="377"/></center>
 		  <h1>===========================</h1>
 		  <h1>Administrative Privilege Escalation - Windows 10.</h1>
           <center><img src="/archive/3.bmp" width="469" height="203"/></center>
