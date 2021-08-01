@@ -3,7 +3,7 @@ layout: default
 permalink: /archive.html
 ---
 **My old articles right from the old blog [2016-2017] etc**
-**ENG versions are google translated**
+<p><strong>!WARNING! ENG versions are google translated</strong></p>
 
 <a href="https://unknownproject.github.io/archive/OldBlog.7z"><b><u>[Blog - Full Archive - PDF + PNG/BMP IMAGES]</u></b></a>
 
