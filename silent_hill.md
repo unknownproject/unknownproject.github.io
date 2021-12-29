@@ -41,12 +41,18 @@ This file was configured to fix in-game commands for better mouse/keyboard compa
 If you want to customize your binds - use bindcfgs_pc.cfg instead.
 
 Forget about main menu configuration.
+
+[I mean I only restored missing interface parts and I have no plans to put every single keyboard texture on screen but I will try to fix it later.]
+[Still you should have no problem to use your gamepad.]
 ==============================================================
 
 <!--<a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>-->
 <div class="tab-content">
       <div class="tab-pane active" id="spc">
         <div class="wrapper">
+		  <h1>===========================</h1>
+		  <h1>After installing your patch the game still crashing.</h1>
+          <p>I'm trying to fix as much as I can and always improve my code if possible. Assembly listings are huge and you have to find multiple dependencies between functions. You also have to analyze them all manually. Some bugs are naturally random and hard to catch. Finding a balance between performance and stability is very difficult when you have no source code.</p>
 		  <h1>===========================</h1>
 		  <h1>I already installed your patch but I have 30 fps.</h1>
           <p>Open vars_pc.cfg and change 'fpsLimit' and 'maxFPSLimit' to 60/120/144/300 or whatever you wanted.</p>
@@ -65,7 +71,7 @@ Forget about main menu configuration.
 		  <h1>===========================</h1>
 		  <h1>Performance in the game sucks. But why ?</h1>
           <p>The game is actively using only one (main) software thread that was optimized to execute each frame for 33 ms. AI/Physics and other CPU operations are less or more intensive than graphics API calls. 3 more threads - LoadingScreen/StdAudioEngine/AsyncDiscAccess are executed when needed. In short - we're facing an old multithreading model. 
-		  Windows is not a realtime OS. And its scheduler is executing and suspending threads to share CPU resources efficiently between all running applications. The real solution is to make the multithreading model more adaptive. But how - that is the question. </p>
+		  Windows is not a realtime OS. And its scheduler is executing and suspending threads to share CPU resources efficiently between all running applications. The real solution is to make the multithreading model more adaptive. But how - that is the question. Important note: The fps value is not only to control the number of prepared frames. All in-game subsystems are using it to set their own speed.</p>
 		  <h1>===========================</h1>
 		  <h1>Hotkeys don't work.</h1>
           <p>Most of these hotkeys have debugging purpose to force/activate special in-game variables or triggers. A bunch of them were bound to the fps counter display on purpose. </p>
