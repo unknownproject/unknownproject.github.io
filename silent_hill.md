@@ -2,7 +2,7 @@
 layout: default
 permalink: /silent_hill.html
 ---
-**Current version : 2.50 / 3.0D [Public Beta] / 3.00 [Private]**
+**Current version : 2.50 / 3.0D**
 
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Updater/Patch_Updater.zip"><b><u>[Download My Official Updater Utility]</u></b></a>
 
@@ -21,7 +21,7 @@ permalink: /silent_hill.html
 <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt"><img src="/assets/images/cl.png" width="112" height="36"/></a>
 <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt"><img src="/assets/images/hk.png" width="112" height="36"/></a>
 <!--a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v2.50/Patch2.5_PreRelease_Alt.exe"><img src="/assets/images/or.png" width="112" height="36"/></a-->
-<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v2.50/Patch2.5_PreRelease.exe"><img src="/assets/images/au.png" width="112" height="36"/></a>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v2.50_3.0D/Patch2.5.exe"><img src="/assets/images/au.png" width="112" height="36"/></a>
 
 **EnemyHealth [v2.03 pt2 -> 2.50].**
 
@@ -51,7 +51,7 @@ Forget about main menu configuration.
       <div class="tab-pane active" id="spc">
         <div class="wrapper">
 		  <h1>===========================</h1>
-		  <h1>After installing your patch the game still crashing.</h1>
+		  <h1>After installing your patch the game keeps crashing.</h1>
           <p>I'm trying to fix as much as I can and always improve my code if possible. Assembly listings are huge and you have to find multiple dependencies between functions. You also have to analyze them all manually. Some bugs are naturally random and hard to catch. Finding a balance between performance and stability is very difficult when you have no source code.</p>
 		  <h1>===========================</h1>
 		  <h1>I already installed your patch but I have 30 fps.</h1>
