@@ -2,9 +2,11 @@
 layout: default
 permalink: /silent_hill.html
 ---
-**Current version : 2.50 / 3.0D**
+**Current version : 2.50 / 3.0E**
 
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Updater/Patch_Updater.zip"><b><u>[Download My Official Updater Utility]</u></b></a>
+
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v3.0E/Patch3.0e.exe"><b><u>[Check out the new WIP update]</u></b></a>
 
 <b><u>Download the actual update to access non-legacy changelog and hotkeys.</u></b>
 
@@ -20,7 +22,6 @@ permalink: /silent_hill.html
 <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ReadMe.txt"><img src="/assets/images/rm.png" width="112" height="36"/></a>
 <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt"><img src="/assets/images/cl.png" width="112" height="36"/></a>
 <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt"><img src="/assets/images/hk.png" width="112" height="36"/></a>
-<!--a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v2.50/Patch2.5_PreRelease_Alt.exe"><img src="/assets/images/or.png" width="112" height="36"/></a-->
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v2.50_3.0D/Patch2.5.exe"><img src="/assets/images/au.png" width="112" height="36"/></a>
 
 **EnemyHealth [v2.03 pt2 -> 2.50].**
