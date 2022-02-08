@@ -14,18 +14,4 @@ layout: default
 
 **[[ Crash Bandicoot ]](./crashbandicoot.html)**
 
-```asm
-CALL DWORD PTR DS:[<&MSVCR80._aligned_free>]
-ADD ESP,4
-MOV ECX,EDI
-MOV DWORD PTR SS:[LOCAL.0],-1
-CALL 1001AF14
-POP EDI
-MOV ECX,DWORD PTR SS:[LOCAL.2]
-POP ESI
-MOV DWORD PTR FS:[0],ECX
-ADD ESP,10
-RETN
-```
-
 <center><iframe src="https://discordapp.com/widget?id=512886164726743041&theme=dark" width="640" height="360" allowtransparency="true" frameborder="0" allowfullscreen></iframe></center>
