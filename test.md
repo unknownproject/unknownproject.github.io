@@ -19,4 +19,6 @@ permalink: /test.html
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Patch_2.0/Patch2.0_upd3_AiO_pt1.exe"><img src="/assets/images/or.png" width="112" height="36"/></a>
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/PreReleases/Patch2.5_PreRelease.exe"><img src="/assets/images/au.png" width="112" height="36"/></a>
 
+<a>Donate: <img src="https://static.donationalerts.ru/uploads/qr/1397590/qr_2e08858b06bf0adeb0fe748f41e59d40.png" width="150" height="150"/></a>
+
 **[[ Back ]](./)**
