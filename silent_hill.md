@@ -6,7 +6,7 @@ permalink: /silent_hill.html
 
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Updater/Patch_Updater.zip"><b><u>[Download My Official Updater Utility]</u></b></a>
 
-<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v3.0F/Patch3.0f.exe"><b><u>[Check out the new WIP update]</u></b></a>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v3.0G/Patch3.0g.exe"><b><u>[Check out the new WIP update]</u></b></a>
 
 <b><u>Download the actual update to access non-legacy changelog and hotkeys.</u></b>
 
