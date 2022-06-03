@@ -84,6 +84,19 @@ Forget about main menu configuration.
 	</div>
 </div>
 <div class="tab-content">
+      <div class="tab-pane active" id="smg">
+        <div class="wrapper">
+		  <h2>
+		  <p>AS MULTIPLE PEOPLE IGNORE THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong></p>
+		  <p>AND CONTINUE TO SPREAD MISINFORMATION THAT MY PATCH "SOMEHOW" REMOVES THE SAVEGAME - HERE IS THE SAVEGAME MANAGER.</p>
+		  <p>It features a backup option of an existing 'shv_save.bin' file before replacing it with the original one.</p>
+		  <p>It will perform a direct copy into a destination folder if the file doesn't exist.</p>
+		  </h2> 
+		  <h1>===========================</h1>
+	  </div>
+	</div>
+</div>
+<div class="tab-content">
       <div class="tab-pane active" id="faq">
         <div class="wrapper">
 		  <h2>
