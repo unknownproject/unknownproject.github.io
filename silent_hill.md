@@ -61,7 +61,7 @@ Forget about main menu configuration.
 		  <p>It will perform a direct copy to a destination folder if the file doesn't exist.</p>
 		  <h1>---------------------------</h1>
 		  <p>How to install: Extract the exe from a zip archive and copy to the root game folder</p>
-		  <p>(e.g. <b><u>'\Steam\SteamApps\common\Silent Hill Homecoming'</b></u>)</p>
+		  <p><b><u> (e.g. '\Steam\SteamApps\common\Silent Hill Homecoming') </b></u></p>
 		  </h2> 
 		  <h1>===========================</h1>
 	  </div>
