@@ -13,8 +13,6 @@ permalink: /silent_hill.html
 <ul class="nav nav-tabs nav-justified panel panel-default panel-transparent" id="PageTabs" role="tablist">
 	<li class="nav-item active">
         <a class="nav-link active" href="#spc" data-toggle="tab">[ Special FAQ ]</a>
-    <li class="nav-item active">
-        <a class="nav-link active" href="#smg" data-toggle="tab">[ SaveGame Manager ]</a>
     </li>
     <li class="nav-item active">
         <a class="nav-link active" href="#faq" data-toggle="tab">[ FAQ ]</a>
@@ -78,19 +76,6 @@ Forget about main menu configuration.
 		  <h1>===========================</h1>
 		  <h1>Hotkeys don't work.</h1>
           <p>Most of these hotkeys have debugging purpose to force/activate special in-game variables or triggers. A bunch of them were bound to the fps counter display on purpose. </p>
-		  <h1>===========================</h1>
-	  </div>
-	</div>
-</div>
-<div class="tab-content">
-      <div class="tab-pane active" id="smg">
-        <div class="wrapper">
-		  <h2>
-		  <p>AS MULTIPLE PEOPLE IGNORE THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong></p>
-		  <p>AND CONTINUE TO SPREAD MISINFORMATION THAT MY PATCH "SOMEHOW" REMOVES THE SAVEGAME - HERE IS THE SAVEGAME MANAGER.</p>
-		  <p>It features a backup option of an existing 'shv_save.bin' file before replacing it with the original one.</p>
-		  <p>It will perform a direct copy into a destination folder if the file doesn't exist.</p>
-		  </h2> 
 		  <h1>===========================</h1>
 	  </div>
 	</div>
