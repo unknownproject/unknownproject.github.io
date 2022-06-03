@@ -84,7 +84,7 @@ Forget about main menu configuration.
 	</div>
 </div>
 <div class="tab-content">
-      <div class="tab-pane active" id="smg">
+      <div class="tab-pane active" id="sgm">
         <div class="wrapper">
 		  <h2>
 		  <p>AS MULTIPLE PEOPLE IGNORE THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong></p>
