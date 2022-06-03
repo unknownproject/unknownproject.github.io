@@ -62,7 +62,6 @@ Forget about main menu configuration.
 		  <h1>---------------------------</h1>
 		  <p>How to install: Extract the exe from a zip archive and copy to the root game folder</p>
 		  <p><b><u> (e.g. '\Steam\SteamApps\common\Silent Hill Homecoming') </b></u></p>
-		  </h2> 
 		  <h1>===========================</h1>
 	  </div>
 	</div>
