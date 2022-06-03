@@ -49,7 +49,24 @@ Forget about main menu configuration.
 [I mean I only restored missing interface parts and I have no plans to put every single keyboard texture on screen but I will try to fix it later.]
 [Still you should have no problem to use your gamepad.]
 ==============================================================
-
+<div class="tab-content">
+      <div class="tab-pane active" id="sgm">
+        <div class="wrapper">
+		  <h2>
+		  <p>AS MULTIPLE PEOPLE IGNORE THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong></p>
+		  <p>AND CONTINUE TO SPREAD MISINFORMATION THAT MY PATCH "SOMEHOW" REMOVES THE SAVEGAME - HERE IS THE SAVEGAME MANAGER.</p>
+		  <img src="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/SGM/Shot.png"/>
+		  <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/SGM/shh_sgm.zip"><b><u>[Download]</u></b></a>
+		  <p>It features a backup option of an existing 'shv_save.bin' file before replacing it with the original one.</p>
+		  <h1>---------------------------</h1>
+		  <p>It will perform a direct copy to a destination folder if the file doesn't exist.</p>
+		  <p>How to install: Extract the exe from a zip archive and copy to the root game folder</p>
+		  <p>e.g. '\Steam\SteamApps\common\Silent Hill Homecoming'</p>
+		  </h2> 
+		  <h1>===========================</h1>
+	  </div>
+	</div>
+</div>
 <!--<a class="nav-link" href="#faq" data-toggle="tab">**FAQ**</a>-->
 <div class="tab-content">
       <div class="tab-pane active" id="spc">
@@ -79,20 +96,6 @@ Forget about main menu configuration.
 		  <h1>===========================</h1>
 		  <h1>Hotkeys don't work.</h1>
           <p>Most of these hotkeys have debugging purpose to force/activate special in-game variables or triggers. A bunch of them were bound to the fps counter display on purpose. </p>
-		  <h1>===========================</h1>
-	  </div>
-	</div>
-</div>
-<div class="tab-content">
-      <div class="tab-pane active" id="sgm">
-        <div class="wrapper">
-		  <h2>
-		  <p>AS MULTIPLE PEOPLE IGNORE THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong></p>
-		  <p>AND CONTINUE TO SPREAD MISINFORMATION THAT MY PATCH "SOMEHOW" REMOVES THE SAVEGAME - HERE IS THE SAVEGAME MANAGER.</p>
-		  <img src="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/SGM/Shot.png"/>
-		  <p>It features a backup option of an existing 'shv_save.bin' file before replacing it with the original one.</p>
-		  <p>It will perform a direct copy into a destination folder if the file doesn't exist.</p>
-		  </h2> 
 		  <h1>===========================</h1>
 	  </div>
 	</div>
