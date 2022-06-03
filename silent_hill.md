@@ -14,6 +14,9 @@ permalink: /silent_hill.html
 	<li class="nav-item active">
         <a class="nav-link active" href="#spc" data-toggle="tab">[ Special FAQ ]</a>
     </li>
+	<li class="nav-item active">
+        <a class="nav-link active" href="#sgm" data-toggle="tab">[ SaveGame Manager ]</a>
+    </li>
     <li class="nav-item active">
         <a class="nav-link active" href="#faq" data-toggle="tab">[ FAQ ]</a>
     </li>
