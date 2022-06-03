@@ -56,7 +56,7 @@ Forget about main menu configuration.
 		  <p>AS MULTIPLE PEOPLE IGNORE THE <strong><a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/ChangeLog.txt">[ CHANGELOG ]</a></strong></p>
 		  <p>AND CONTINUE TO SPREAD MISINFORMATION THAT MY PATCH "SOMEHOW" REMOVES THE SAVEGAME - HERE IS THE SAVEGAME MANAGER.</p>
 		  <img src="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/SGM/Shot.png"/>
-		  <p>AS MULTIPLE PEOPLE IGNORE THE <strong><a href="https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/SGM/shh_sgm.zip">[ DOWNLOAD ]</a></strong></p>
+		  <p><a href="https://github.com/unknownproject/Silent_Hill_Homecoming/blob/master/Patches/SGM/shh_sgm.zip">[ DOWNLOAD ]</strong></p>
 		  <p>It features a backup option of an existing 'shv_save.bin' file before replacing it with the original one.</p>
 		  <h1>---------------------------</h1>
 		  <p>It will perform a direct copy to a destination folder if the file doesn't exist.</p>
