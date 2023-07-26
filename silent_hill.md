@@ -2,11 +2,11 @@
 layout: default
 permalink: /silent_hill.html
 ---
-**Current version : 2.50 / 3.0H**
+**Current version : 2.50 / 3.10**
 
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Updater/Patch_Updater.zip"><b><u>[Download My Official Updater Utility]</u></b></a>
 
-<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v3.0H/Patch3.0H.exe"><b><u>[Check out the new WIP update]</u></b></a>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases"><b><u>[Check out the new WIP update]</u></b></a>
 
 <b><u>Download the actual update to access non-legacy changelog and hotkeys.</u></b>
 
