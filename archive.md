@@ -4,7 +4,6 @@ permalink: /archive.html
 ---
 **My old articles right from the old blog [2016-2017] etc**
 <p><strong>!WARNING! ENG versions are google translated</strong></p>
-<iframe src="https://widget.donatepay.ru/widgets/page/d527861e0467bb78faef23b421986c0a16b1d49c1f8bef6b76715ecbac2a45c1?widget_id=5801310&sum=200" width="510" height="220" frameBorder="0"></iframe>
 
 <a href="https://unknownproject.github.io/archive/OldBlog.7z"><b><u>[Blog - Full Archive - PDF + PNG/BMP IMAGES]</u></b></a>
 
