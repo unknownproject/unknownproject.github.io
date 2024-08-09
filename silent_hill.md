@@ -2,11 +2,11 @@
 layout: default
 permalink: /silent_hill.html
 ---
-**Current version : 2.50 / 3.10**
+**Current version : 3.10**
 
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/raw/master/Patches/Updater/Patch_Updater.zip"><b><u>[Download My Official Updater Utility]</u></b></a>
 
-<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases"><b><u>[Check out the new WIP update]</u></b></a>
+<a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases"><b><u>[Check out the updates]</u></b></a>
 
 <b><u>Download the actual update to access non-legacy changelog and hotkeys.</u></b>
 
@@ -27,7 +27,7 @@ permalink: /silent_hill.html
 <a href="https://raw.githubusercontent.com/unknownproject/Silent_Hill_Homecoming/master/Patches/HotKeys.txt"><img src="/assets/images/hk.png" width="112" height="36"/></a>
 <a href="https://github.com/unknownproject/Silent_Hill_Homecoming/releases/download/v2.50_3.0D/Patch2.5.exe"><img src="/assets/images/au.png" width="112" height="36"/></a>
 
-**EnemyHealth [v2.03 pt2 -> 2.50].**
+**EnemyHealth [v2.03 pt2 -> 2.50] -- customizable in the 3.10 version.**
 
 |         Name         |   Type  | Normal mode | Hard mode |
 |:---------------------|:--------|:------------|:----------|
